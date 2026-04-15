@@ -31,3 +31,5 @@ Add support for custom user-defined gestures
 Improve gesture recognition accuracy
 Add voice feedback for detected gestures
 Create GUI for gesture-to-website mapping
+
+
