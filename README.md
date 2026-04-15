@@ -19,11 +19,11 @@ How It Works
 The system tracks hand landmarks using MediaPipe, analyzes finger positions to identify gestures, and maps each gesture to a predefined website. When a new gesture is detected, the corresponding website opens automatically.
 
 ### Example Gesture Mapping
-L → YouTube
-I → Google
-V → LinkedIn
-E → Gmail
-5 → IRCTC
+L → YouTube,
+I → Google,
+V → LinkedIn,
+E → Gmail,
+5 → IRCTC,
 Y → Facebook
 
 ### Future Improvements
