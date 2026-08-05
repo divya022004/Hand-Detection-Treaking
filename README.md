@@ -1,4 +1,4 @@
-# Hand Gesture Controlled Browser Automation
+## Hand Detection Treaking Using Machine Learning
 
 A real-time hand gesture recognition project built with Python, OpenCV, and MediaPipe that detects hand gestures through webcam input and automatically opens different websites based on the recognized gesture.
 
